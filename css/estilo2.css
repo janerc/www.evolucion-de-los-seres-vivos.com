@@ -1,0 +1,20 @@
+body{
+	background-color:#3CF;
+	background-image:url(../img/502019185_univ_lsr_xl.jpg);
+	-webkit-background-attachment:local;
+}
+h1{
+color:#C00;    
+    
+font-family:"Comic Sans MS", cursive;
+font-size:36px
+}
+p{
+font-family:"Comic Sans MS", cursive;
+font-size:18px
+}
+h2{
+font-family:"Comic Sans MS", cursive;
+font-size:26px;
+color:#C00;
+}
