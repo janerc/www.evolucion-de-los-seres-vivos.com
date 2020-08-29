@@ -1,6 +1,6 @@
 body{
 	background-color:#3CF;
-	background-image:url(../img/502019185_univ_lsr_xl.jpg);
+	background-image:url(../img/cropped-teoria-de-la-evolucion-curso-unam.jpg);
 	-webkit-background-attachment:local;
 }
 p{
@@ -18,4 +18,15 @@ h2{
     
 font-family:"Comic Sans MS", cursive;
 font-size:22px;
+}
+.p7{
+	margin:80px;
+	padding:20px;
+	background-color:#999;
+	border:1px solid black;
+}
+li a{
+	color:white;
+	padding: 14px 16px;
+	text-decoration: none;
 }
